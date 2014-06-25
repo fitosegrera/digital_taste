@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0  Date: Thu 19 Jun 2014 07:19:13 PM EDT
+#
+$CMP 7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP 78L05
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78lxx.pdf
+$ENDCMP
+#
+$CMP ARD_PRO_MINI
+D Arduino Pro Mini 5V 16MHz
+K ARDUINO
+$ENDCMP
+#
+$CMP ARDUINO_PRO_MINI_5V
+D Arduino Pro Mini 5V 16MHz
+K ARDUINO
+$ENDCMP
+#
+$CMP LM7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP LM7812
+D Linear Regulator +12V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP VOL_REG_7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
+#End Doc Library

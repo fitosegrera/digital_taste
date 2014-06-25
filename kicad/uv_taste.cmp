@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Thu 19 Jun 2014 08:04:08 PM EDT
+
+BeginCmp
+TimeStamp = /53A34285;
+Reference = IC1;
+ValeurCmp = ARD_PRO_MINI;
+IdModule  = ard_pro_mini;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A122AD;
+Reference = R1;
+ValeurCmp = 4.7K_R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A131E8;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = MICROSWITCH_SPST;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A12C4E;
+Reference = U1;
+ValeurCmp = MCP41XXX;
+IdModule  = DIGIPOT;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A35CF3;
+Reference = U2;
+ValeurCmp = VOL_REG_7805;
+IdModule  = UV_TASTE_LM78XX;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A1281D;
+Reference = UV1;
+ValeurCmp = UV_SENSOR_BREAKOUT;
+IdModule  = UV_SENSOR_BOARD;
+EndCmp
+
+EndListe
